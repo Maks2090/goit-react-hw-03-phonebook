@@ -1,0 +1,22 @@
+
+ .button{
+    width: 100px;
+    align-self: center;
+    
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 20px;
+  }
+
+  .button:hover{
+    background-color: blueviolet;
+    color: cornsilk;
+  }
+
+  .list{
+      list-style: number;
+  }
+
+  .item{
+    margin-bottom: 10px;
+  }
